@@ -1,4 +1,2 @@
 # Simple-Photo-editor
-Simple photo-editor written in C++ with possibility to upgrade with GUI.
-Currently, I am working on an upgrade for this project, I am going to add GUI which I am going to write in java.
-This implementation can handle only 32bit pam and BMP format of the photo.
+I wrote image editing and manipulation software for pam and BMP formats. This software contains over 20 basic arithmetic operations for image editing. Also, the user can create his own composite operation using these basic. The photo editor supports work with many layers as well as selections. The software has an option to save the project in custom XML format.
